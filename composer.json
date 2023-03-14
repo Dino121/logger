@@ -1,0 +1,19 @@
+{
+    "name": "dino121/logger",
+    "description": "A Library to log data.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dino121\\Logger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dino Musinovic",
+            "email": "dmusinovic@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
